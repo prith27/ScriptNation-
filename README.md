@@ -1,3 +1,4 @@
 # JCOMP_MGT
 ScriptNation Project
-Just a simple website design for script analysis
+
+Just a simple website designed for script analysis
