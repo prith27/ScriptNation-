@@ -1,4 +1,38 @@
 body{
     background-color: whitesmoke;
 }
+html{
+  scroll-behavior: smooth;
+}
+.top{
+  margin-top: 220px;
 
+  text-align: center;
+}
+#features{
+  padding: 10% 15%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+.feature-box{
+text-align: center;
+}
+.image:hover{
+  color: #ff4c68;
+}
+#cta{
+  padding: 7% 15%;
+  background-color: #whitesmoke;
+  color: black;
+  text-align: center;
+}
+.cta-head{
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+#About{
+  padding: 50px;
+}
